@@ -1,2 +1,2 @@
-#!/bin/bash
-tail -l iacta >> iacta
+#!bin/bash
+find . -name '*.js' -type f -delete
