@@ -40,5 +40,5 @@ echo "Database is reachable."
 
 This postmortem will help us learn from the outage and prevent similar issues in the future.
 
-## Corresponding Image
+## Image
 ![Error 503 Service Unavailable](https://media.geeksforgeeks.org/wp-content/uploads/20221230125712/Fix-HTTP-Error-503-Service-Unavailable.png)
